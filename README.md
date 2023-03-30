@@ -15,6 +15,7 @@ https://github.com/treenbosleta/CM_T_U
 对gas费以及节省方式的理解（之后补充）
 
 
+编写、部署、测试 众筹NFT的web3项目（solidity、js、web3交互）、规划中 
 
 
 目录：
